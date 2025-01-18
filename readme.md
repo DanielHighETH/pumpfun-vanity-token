@@ -17,7 +17,7 @@ or [vanity-solana](https://github.com/m2-labs/vanity-solana/) package by M2 Labs
 3. Update the `config.json` file with your desired parameters.
 4. Run the script:
    ```bash
-   node app.js
+   node app.mjs
    ```
 
 ## Configuration File: `config.json`
