@@ -1,0 +1,21 @@
+{
+  "endpoint": "your_rpc_endpoint",
+  "signerPrivateKey": "your_signer_privateKey",
+  "mintPrivateKey": "your_mint_privateKey",
+  "filePath": "./example.png",
+  "metadata": {
+    "name": "VANITY TEST",
+    "symbol": "VANITY",
+    "description": "This is an example VANITY token on pump.fun",
+    "twitter": "https://x.com/dhigh_eth",
+    "telegram": "https://x.com/dhigh_eth",
+    "website": "https://x.com/dhigh_eth"
+  },
+  "transactionOptions": {
+    "amount": 1,
+    "slippage": 10,
+    "priorityFee": 0.001
+  },
+  "jito": true,
+  "jitoTip": 0.001
+}
